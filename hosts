@@ -1,5 +1,5 @@
 [webserver]
-10-0-0-154
+10.0.0.154
 
 [local]
 localhost ansible_connection=local
